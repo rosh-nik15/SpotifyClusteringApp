@@ -4,7 +4,7 @@ import joblib
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans, DBSCAN
 
-df = pd.read_csv("spotifyFeatures.csv")
+df = pd.read_csv("SpotifyFeatures.csv")
 features = ['danceability', 'energy', 'loudness', 'speechiness', 'acousticness', 'instrumentalness', 'valence', 'tempo']
 X = df[features]
 print("check1")
