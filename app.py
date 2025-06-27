@@ -9,7 +9,7 @@ import plotly.express as px
 kmeans = joblib.load("kmeans_model.pkl")
 dbscan = joblib.load("dbscan_model.pkl")
 scaler = joblib.load("scaler.pkl")
-df = pd.read_csv("spotifyFeatures.csv")
+df = pd.read_csv("SpotifyFeatures.csv")
 
 # Assume features are pre-selected
 features = ['danceability', 'energy', 'loudness', 'speechiness', 'acousticness', 'instrumentalness', 'valence', 'tempo']
