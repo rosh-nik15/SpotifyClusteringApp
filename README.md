@@ -58,14 +58,13 @@ These algorithms were applied to group similar songs together, enabling content-
 
 ## 📦 Project Structure
 
-spotify-recommender/
-│
-├── data/ # Raw and cleaned datasets
-├── models/ # Saved clustering models
-├── notebooks/ # Jupyter notebooks for exploration
-├── app/ # Streamlit app files (optional)
-├── utils/ # Helper scripts and functions
-├── README.md # Project overview and documentation
+spotify-recommender│
+data # Raw and cleaned datasets
+models # Saved clustering models
+notebooks # Jupyter notebooks for exploration
+app # Streamlit app files (optional)
+utils # Helper scripts and functions
+README.md # Project overview and documentation
 
 ---
 
