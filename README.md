@@ -148,6 +148,6 @@ Possible extensions for the project:
   .
   ---
 ## 🚀 Live Demo
-   deployed on Streamlit Cloud:
+   deployed on Streamlit Cloud:https://spotifyclusteringapp-tbvsldyz6uvsdsqquwfaqu.streamlit.app/
    
 
